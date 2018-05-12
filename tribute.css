@@ -4,6 +4,13 @@ body{
     color: #dedbd8;
     font-size: 36px;
 }
+img{
+  height = auto;
+}
+#nextToPicture{
+  margin-left: 10%;
+}
+
 #chestersName{
     font-family: 'Indie Flower', cursive;
     color: #524632;
@@ -20,7 +27,4 @@ body{
     font-family: 'Caveat', cursive;
     display: inline;
     font-size: 40px;
-}
-img{
-    height: 100%;
 }
